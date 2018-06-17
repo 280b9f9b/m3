@@ -1,8 +1,257 @@
 #EXTM3U
-#EXTINF:-1,GR: OTE SPORT 1
-http://bozhd.eu:8000/live/oNX0sIjlHr/7qwD5oMujf/9465.ts
-#EXTINF:-1,GR: youtube
-https://m.youtube.com/watch?v=X1PQs0Yxauo
-#EXTINF:-1,GR: you
-https://r16---sn-xupn5a5u-4wgy.googlevideo.com/videoplayback?id=o-AMrA1mXrbg_qsqC622DcIgKTB0UgvrPgI_6QToAnm0nm&requiressl=yes&dur=356.983&pl=22&itag=22&source=youtube&mime=video%2Fmp4&signature=5726F500098A291E77C4D8AC09136560AD4C8BD0.0DE5D73D543856B9DD235764CBAA787E0409CC27&key=cms1&lmt=1528057612458607&ei=ipgmW6PwGZSSz7sPz92SwAM&c=WEB&sparams=dur,ei,expire,id,initcwndbps,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,nh,pl,ratebypass,requiressl,source&fvip=2&ip=139.99.106.27&ipbits=0&ratebypass=yes&expire=1529277674&video_id=X1PQs0Yxauo&title=I+Turn+a+Stainless+Steel+Bolt+into+a+Beautiful+little+Hunting+Knife&redirect_counter=1&rm=sn-npos77l&req_id=6d555f952811a3ee&cms_redirect=yes&ipbypass=yes&mip=2.50.155.99&mm=31&mn=sn-xupn5a5u-4wgy&ms=au&mt=1529265766&mv=m&nh=EAI
-
+#EXTINF:-1,TR ATV HD
+http://217.182.173.184:8000/live/swen123/swen123/55.ts
+#EXTINF:-1,TR ATV
+http://217.182.173.184:8000/live/swen123/swen123/260.ts
+#EXTINF:-1,TR STAR HD
+http://217.182.173.184:8000/live/swen123/swen123/114.ts
+#EXTINF:-1,TR STAR
+http://217.182.173.184:8000/live/swen123/swen123/258.ts
+#EXTINF:-1,TR EuroStar
+http://217.182.173.184:8000/live/swen123/swen123/257.ts
+#EXTINF:-1,TR SHOW HD
+http://217.182.173.184:8000/live/swen123/swen123/54.ts
+#EXTINF:-1,TR SHOW TV
+http://217.182.173.184:8000/live/swen123/swen123/256.ts
+#EXTINF:-1,TR SHOW TüRK
+http://217.182.173.184:8000/live/swen123/swen123/255.ts
+#EXTINF:-1,TR SHOW MAX
+http://217.182.173.184:8000/live/swen123/swen123/113.ts
+#EXTINF:-1,TR KANAL D HD
+http://217.182.173.184:8000/live/swen123/swen123/59.ts
+#EXTINF:-1,TR Kanal D
+http://217.182.173.184:8000/live/swen123/swen123/254.ts
+#EXTINF:-1,TR Euro D
+http://217.182.173.184:8000/live/swen123/swen123/253.ts
+#EXTINF:-1,TR Beyaz TV
+http://217.182.173.184:8000/live/swen123/swen123/239.ts
+#EXTINF:-1,TR Beyaz TV HD
+http://217.182.173.184:8000/live/swen123/swen123/69.ts
+#EXTINF:-1,TR CNN HD
+http://217.182.173.184:8000/live/swen123/swen123/72.ts
+#EXTINF:-1,TR CNN Turk
+http://217.182.173.184:8000/live/swen123/swen123/242.ts
+#EXTINF:-1,TR Euronews
+http://217.182.173.184:8000/live/swen123/swen123/241.ts
+#EXTINF:-1,TR Flash TV
+http://217.182.173.184:8000/live/swen123/swen123/213.ts
+#EXTINF:-1,TR FOX
+http://217.182.173.184:8000/live/swen123/swen123/251.ts
+#EXTINF:-1,TR FOX HD
+http://217.182.173.184:8000/live/swen123/swen123/70.ts
+#EXTINF:-1,TR Habertürk HD
+http://217.182.173.184:8000/live/swen123/swen123/58.ts
+#EXTINF:-1,TR NTV
+http://217.182.173.184:8000/live/swen123/swen123/240.ts
+#EXTINF:-1,TR NTV HD
+http://217.182.173.184:8000/live/swen123/swen123/52.ts
+#EXTINF:-1,TR NTV Spor
+http://217.182.173.184:8000/live/swen123/swen123/245.ts
+#EXTINF:-1,TR NTV SPOR HD
+http://217.182.173.184:8000/live/swen123/swen123/51.ts
+#EXTINF:-1,TR TRT 1
+http://217.182.173.184:8000/live/swen123/swen123/237.ts
+#EXTINF:-1,TR TRT 1 HD
+http://217.182.173.184:8000/live/swen123/swen123/64.ts
+#EXTINF:-1,TR TRT Anadolu
+http://217.182.173.184:8000/live/swen123/swen123/234.ts
+#EXTINF:-1,TR TRT Avaz
+http://217.182.173.184:8000/live/swen123/swen123/233.ts
+#EXTINF:-1,TR TRT Belgesel HD
+http://217.182.173.184:8000/live/swen123/swen123/63.ts
+#EXTINF:-1,TR TRT Haber
+http://217.182.173.184:8000/live/swen123/swen123/235.ts
+#EXTINF:-1,TR TRT Haber HD
+http://217.182.173.184:8000/live/swen123/swen123/62.ts
+#EXTINF:-1,TR TRT Muzik
+http://217.182.173.184:8000/live/swen123/swen123/210.ts
+#EXTINF:-1,TR TRT Spor
+http://217.182.173.184:8000/live/swen123/swen123/246.ts
+#EXTINF:-1,TR TRT Spor HD
+http://217.182.173.184:8000/live/swen123/swen123/61.ts
+#EXTINF:-1,TR TRT Turk
+http://217.182.173.184:8000/live/swen123/swen123/236.ts
+#EXTINF:-1,TR TV 8
+http://217.182.173.184:8000/live/swen123/swen123/250.ts
+#EXTINF:-1,TR TV 8 INT
+http://217.182.173.184:8000/live/swen123/swen123/249.ts
+#EXTINF:-1,TR TV8 HD
+http://217.182.173.184:8000/live/swen123/swen123/73.ts
+#EXTINF:-1,TR TV8.5
+http://217.182.173.184:8000/live/swen123/swen123/248.ts
+#EXTINF:-1,TR Kanal 7 Avrupa
+http://217.182.173.184:8000/live/swen123/swen123/252.ts
+#EXTINF:-1,TR KANAL7 TR
+http://217.182.173.184:8000/live/swen123/swen123/60.ts
+#EXTINF:-1,TR A Haber
+http://217.182.173.184:8000/live/swen123/swen123/238.ts
+#EXTINF:-1,TR A Haber HD
+http://217.182.173.184:8000/live/swen123/swen123/56.ts
+#EXTINF:-1,TR A Spor
+http://217.182.173.184:8000/live/swen123/swen123/247.ts
+#EXTINF:-1,TR A Spor HD
+http://217.182.173.184:8000/live/swen123/swen123/65.ts
+#EXTINF:-1,TR A2
+http://217.182.173.184:8000/live/swen123/swen123/259.ts
+#EXTINF:-1,TR Viyana TV w
+http://217.182.173.184:8000/live/swen123/swen123/127.ts
+#EXTINF:-1,TR: Dugun TV
+http://217.182.173.184:8000/live/swen123/swen123/2819.ts
+#EXTINF:-1,TR AKIT TV w
+http://217.182.173.184:8000/live/swen123/swen123/75.ts
+#EXTINF:-1,TR Aksaray TV w
+http://217.182.173.184:8000/live/swen123/swen123/76.ts
+#EXTINF:-1,TR Anadolu Yurdum
+http://217.182.173.184:8000/live/swen123/swen123/77.ts
+#EXTINF:-1,TR BenguTurk Tv
+http://217.182.173.184:8000/live/swen123/swen123/195.ts
+#EXTINF:-1,TR Bloomberg HT w
+http://217.182.173.184:8000/live/swen123/swen123/81.ts
+#EXTINF:-1,TR Bursa Spor w
+http://217.182.173.184:8000/live/swen123/swen123/82.ts
+#EXTINF:-1,TR CEM TV
+http://217.182.173.184:8000/live/swen123/swen123/244.ts
+#EXTINF:-1,TR Dream Turk
+http://217.182.173.184:8000/live/swen123/swen123/205.ts
+#EXTINF:-1,TR Dream TV w
+http://217.182.173.184:8000/live/swen123/swen123/85.ts
+#EXTINF:-1,TR DRT Denizli w
+http://217.182.173.184:8000/live/swen123/swen123/86.ts
+#EXTINF:-1,TR Ekin TV
+http://217.182.173.184:8000/live/swen123/swen123/215.ts
+#EXTINF:-1,TR FIL HD
+http://217.182.173.184:8000/live/swen123/swen123/50.ts
+#EXTINF:-1,TR Halk TV
+http://217.182.173.184:8000/live/swen123/swen123/218.ts
+#EXTINF:-1,TR Istanbul TV HD
+http://217.182.173.184:8000/live/swen123/swen123/94.ts
+#EXTINF:-1,TR ISVICRE TV w
+http://217.182.173.184:8000/live/swen123/swen123/95.ts
+#EXTINF:-1,TR KABE AL QURAN w
+http://217.182.173.184:8000/live/swen123/swen123/96.ts
+#EXTINF:-1,TR KANAL 19 W
+http://217.182.173.184:8000/live/swen123/swen123/97.ts
+#EXTINF:-1,TR Kanal 24 w
+http://217.182.173.184:8000/live/swen123/swen123/98.ts
+#EXTINF:-1,TR Kanal T
+http://217.182.173.184:8000/live/swen123/swen123/243.ts
+#EXTINF:-1,TR KANAL URFA
+http://217.182.173.184:8000/live/swen123/swen123/100.ts
+#EXTINF:-1,TR KANAL3
+http://217.182.173.184:8000/live/swen123/swen123/198.ts
+#EXTINF:-1,TR Karadeniz TV
+http://217.182.173.184:8000/live/swen123/swen123/219.ts
+#EXTINF:-1,TR KARAMEL TV w
+http://217.182.173.184:8000/live/swen123/swen123/102.ts
+#EXTINF:-1,TR Kon TV Konya
+http://217.182.173.184:8000/live/swen123/swen123/194.ts
+#EXTINF:-1,TR Kral Pop TV
+http://217.182.173.184:8000/live/swen123/swen123/207.ts
+#EXTINF:-1,TR Kral TV
+http://217.182.173.184:8000/live/swen123/swen123/203.ts
+#EXTINF:-1,TR Lalegül Tv
+http://217.182.173.184:8000/live/swen123/swen123/105.ts
+#EXTINF:-1,TR Lifetime Türk
+http://217.182.173.184:8000/live/swen123/swen123/106.ts
+#EXTINF:-1,TR Makine TV w
+http://217.182.173.184:8000/live/swen123/swen123/107.ts
+#EXTINF:-1,TR Mavi Karadeniz
+http://217.182.173.184:8000/live/swen123/swen123/108.ts
+#EXTINF:-1,TR Medine TV w
+http://217.182.173.184:8000/live/swen123/swen123/109.ts
+#EXTINF:-1,TR TRT Cocuk
+http://217.182.173.184:8000/live/swen123/swen123/232.ts
+#EXTINF:-1,TR Cartoon Network
+http://217.182.173.184:8000/live/swen123/swen123/229.ts
+#EXTINF:-1,TR Disney Channel
+http://217.182.173.184:8000/live/swen123/swen123/227.ts
+#EXTINF:-1,TR KIDZ
+http://217.182.173.184:8000/live/swen123/swen123/226.ts
+#EXTINF:-1,TR Minika Cocuk
+http://217.182.173.184:8000/live/swen123/swen123/230.ts
+#EXTINF:-1,TR Minika GO
+http://217.182.173.184:8000/live/swen123/swen123/231.ts
+#EXTINF:-1,TR: Baby TV
+http://217.182.173.184:8000/live/swen123/swen123/11398.ts
+#EXTINF:-1,TR: BabyFirst HD
+http://217.182.173.184:8000/live/swen123/swen123/11399.ts
+#EXTINF:-1,TR: Disney  JR
+http://217.182.173.184:8000/live/swen123/swen123/11395.ts
+#EXTINF:-1,TR: Nick JR
+http://217.182.173.184:8000/live/swen123/swen123/11396.ts
+#EXTINF:-1,TR NR1
+http://217.182.173.184:8000/live/swen123/swen123/208.ts
+#EXTINF:-1,TR NR1 HD
+http://217.182.173.184:8000/live/swen123/swen123/68.ts
+#EXTINF:-1,TR NUMBER 1 TURK
+http://217.182.173.184:8000/live/swen123/swen123/209.ts
+#EXTINF:-1,TR NUMBER 1 TÜRK HD
+http://217.182.173.184:8000/live/swen123/swen123/110.ts
+#EXTINF:-1,TR NursTV
+http://217.182.173.184:8000/live/swen123/swen123/220.ts
+#EXTINF:-1,TR Pamukkale TV w
+http://217.182.173.184:8000/live/swen123/swen123/112.ts
+#EXTINF:-1,TR Planet Cocuk
+http://217.182.173.184:8000/live/swen123/swen123/228.ts
+#EXTINF:-1,TR Planet Mutfak
+http://217.182.173.184:8000/live/swen123/swen123/223.ts
+#EXTINF:-1,TR Planet Turk
+http://217.182.173.184:8000/live/swen123/swen123/225.ts
+#EXTINF:-1,TR Power TV HD
+http://217.182.173.184:8000/live/swen123/swen123/66.ts
+#EXTINF:-1,TR PowerTurk
+http://217.182.173.184:8000/live/swen123/swen123/206.ts
+#EXTINF:-1,TR PowerTurk HD
+http://217.182.173.184:8000/live/swen123/swen123/67.ts
+#EXTINF:-1,TR Semerkand TV
+http://217.182.173.184:8000/live/swen123/swen123/222.ts
+#EXTINF:-1,TR: Bloomberg HT TV
+http://217.182.173.184:8000/live/swen123/swen123/11390.ts
+#EXTINF:-1,TR: EGE TV
+http://217.182.173.184:8000/live/swen123/swen123/11393.ts
+#EXTINF:-1,TR: EKIN TV
+http://217.182.173.184:8000/live/swen123/swen123/11389.ts
+#EXTINF:-1,TR: ETV Edirne
+http://217.182.173.184:8000/live/swen123/swen123/11391.ts
+#EXTINF:-1,TR: ETV Manisa
+http://217.182.173.184:8000/live/swen123/swen123/11392.ts
+#EXTINF:-1,TR: TEVE 2 HD
+http://217.182.173.184:8000/live/swen123/swen123/11401.ts
+#EXTINF:-1,TR: Ucan Kus
+http://217.182.173.184:8000/live/swen123/swen123/11394.ts
+#EXTINF:-1,TR: Ulusal Kanal
+http://217.182.173.184:8000/live/swen123/swen123/11400.ts
+#EXTINF:-1,TR Sony Channel Türkiye
+http://217.182.173.184:8000/live/swen123/swen123/224.ts
+#EXTINF:-1,TR Sports TV w
+http://217.182.173.184:8000/live/swen123/swen123/53.ts
+#EXTINF:-1,TR TARIM TV w
+http://217.182.173.184:8000/live/swen123/swen123/116.ts
+#EXTINF:-1,TR TGRT Haber w
+http://217.182.173.184:8000/live/swen123/swen123/119.ts
+#EXTINF:-1,TR TMB
+http://217.182.173.184:8000/live/swen123/swen123/120.ts
+#EXTINF:-1,TR TV 100 w
+http://217.182.173.184:8000/live/swen123/swen123/121.ts
+#EXTINF:-1,TR TV10
+http://217.182.173.184:8000/live/swen123/swen123/216.ts
+#EXTINF:-1,TR TV2
+http://217.182.173.184:8000/live/swen123/swen123/214.ts
+#EXTINF:-1,TR TV2 HD
+http://217.182.173.184:8000/live/swen123/swen123/71.ts
+#EXTINF:-1,TR TV360 w
+http://217.182.173.184:8000/live/swen123/swen123/125.ts
+#EXTINF:-1,TR Ulke TV
+http://217.182.173.184:8000/live/swen123/swen123/201.ts
+#EXTINF:-1,TR Ulke TV HD
+http://217.182.173.184:8000/live/swen123/swen123/57.ts
+#EXTINF:-1,TR Vatan TV
+http://217.182.173.184:8000/live/swen123/swen123/212.ts
+#EXTINF:-1,TR VIZION58 w
+http://217.182.173.184:8000/live/swen123/swen123/128.ts
+#EXTINF:-1,TR Yaban TV
+http://217.182.173.184:8000/live/swen123/swen123/204.ts
+#EXTINF:-1,TR Yasin TV
+http://217.182.173.184:8000/live/swen123/swen123/221.ts
+#EXTINF:-1,TR Yurdum TV
+http://217.182.173.184:8000/live/swen123/swen123/200.ts
